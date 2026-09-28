@@ -1,0 +1,6 @@
+{
+  "name": "HomeChef Connect",
+  "description": "A food delivery marketplace connecting local home cooks with food lovers, featuring multi-cook order splitting, delivery tracking, and role-based panels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
